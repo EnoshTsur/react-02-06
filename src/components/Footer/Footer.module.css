@@ -1,0 +1,31 @@
+.Footer h1 {
+    padding: 1rem;
+    color: lightblue;
+    text-shadow: 0 2px 3px darkblue;
+}
+
+.Footer h1:hover {
+    color: green;
+}
+
+.Mijael {
+    color: gold;
+    letter-spacing: 0.5rem;
+}
+
+.Mijael:hover{
+    color: orange;
+    letter-spacing: 0;
+}
+
+.Less {
+    color: green;
+}
+
+.More {
+    color: red;
+}
+
+@media (max-width: 500px) {
+    
+}
